@@ -60,11 +60,11 @@ TECHNOLOGIES USED
 
    1.HTML - Structure of the webpage, defining elements like headings, dropdown menus, and buttons.
     
-   2.CSS - Styling of the webpage, such as background colors, text formatting, margins, borders, and shadows for the interactive elements like dropdown menus and weather displays.
+   2.CSS -   Styling of the webpage, such as background colors, text formatting, margins, borders, and shadows for the interactive elements like dropdown menus and weather displays.
 
-   3.JavaScript - Client-side scripting for dynamic behavior, such as updating the temperature display when a user selects a city from the dropdown menu.
+   3.JavaScript -   Client-side scripting for dynamic behavior, such as updating the temperature display when a user selects a city from the dropdown menu.
    
-   4.Responsive Web Design - Use of CSS to ensure that the webpage adjusts its layout and appearance for different devices, like mobile phones, tablets, and desktops.
+   4.Responsive Web Design -     Use of CSS to ensure that the webpage adjusts its layout and appearance for different devices, like mobile phones, tablets, and desktops.
 
  
   
