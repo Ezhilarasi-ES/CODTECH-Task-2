@@ -32,27 +32,33 @@ OBJECTIVES
 
      3.Coding the interactive functionality: 
           
-          Implement JavaScript functions to dynamically display selected city temperatures based on user interaction with the dropdown menu.
+          Implement JavaScript functions to dynamically display selected city temperatures 
+          based on user interaction with the dropdown menu.
 
      4.Ensuring mobile responsiveness: 
      
-          Adjust the layout and elements with CSS to ensure the weather forecasting tool looks and functions well on different devices (e.g., smartphones, tablets, desktops).
+          Adjust the layout and elements with CSS to ensure the weather forecasting tool looks 
+          and functions well on different devices (e.g., smartphones, tablets, desktops).
      
      5.Testing and debugging:
      
-          Test the functionality of the project across different browsers and devices, ensuring correct display and performance of weather data and interactive elements.
+          Test the functionality of the project across different browsers and devices, ensuring
+          correct display and performance of weather data and interactive elements.
     
      6.Optimization for performance: 
      
-          Optimize the code to ensure quick load times and smooth functionality, particularly for interactive features like temperature updates.
+          Optimize the code to ensure quick load times and smooth functionality, 
+          particularly for interactive features like temperature updates.
      
      7.User feedback and iteration: 
      
-          Gather feedback from users on the usability of the tool and refine the interface and features accordingly.
+          Gather feedback from users on the usability of the tool and refine 
+          the interface and features accordingly.
 
      8.Documentation and presentation:
      
-          Prepare detailed documentation of the code, design choices, and functionalities to support future development or handover.
+          Prepare detailed documentation of the code, design choices,
+          and functionalities to support future development or handover.
 
 
 
